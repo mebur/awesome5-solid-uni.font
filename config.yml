@@ -116,11 +116,11 @@ glyphs:
   - css: "address-card"
     code: 0xF2BB
     uid: fa042197fde72aaf26d86592d391ab34
-    search: []
+    search: [vcard]
   - css: adjust
     code: 0xF042
     uid: 5791af8f26c32f5a00011c1c7e57dd8c
-    search: []
+    search: [adjust, contrast]
   - css: "air-freshener"
     code: 0xF5D0
     uid: 128c2b8981791c656b7a2f65bc0a64b3
@@ -128,19 +128,19 @@ glyphs:
   - css: "align-center"
     code: 0xF037
     uid: 21b8b7b88be5fa77f0e0249d3134df1a
-    search: []
+    search: [editor, align, center]
   - css: "align-justify"
     code: 0xF039
     uid: 5ea2f5cadb8a0c2319f80e658887dbaa
-    search: []
+    search: [editor, align, justify]
   - css: "align-left"
     code: 0xF036
     uid: 1977a9c828686aaaffc7ed612906a777
-    search: []
+    search: [editor, align, left]
   - css: "align-right"
     code: 0xF038
     uid: 9e09ec544e805fd831678bb2a748eb76
-    search: []
+    search: [editor, align, right]
   - css: allergies
     code: 0xF461
     uid: 4b912a6ea060a7eea9e885e9aa62555e
@@ -148,7 +148,7 @@ glyphs:
   - css: ambulance
     code: 0xF0F9
     uid: 81121ba5000a6a97c55e39f8950185b7
-    search: []
+    search: [ambulance]
   - css: "american-sign-language-interpreting"
     code: 0xF2A3
     uid: d3535a457785b8925f9036a6e0991af9
@@ -156,27 +156,27 @@ glyphs:
   - css: anchor
     code: 0xF13D
     uid: 244e73e67f4797f4c151c5bc5bb1b35d
-    search: []
+    search: [anchor]
   - css: "angle-double-down"
     code: 0xF103
     uid: beea67a760a2a3aae3a8bfab48d17f27
-    search: []
+    search: [angle, down]
   - css: "angle-double-left"
     code: 0xF100
     uid: 67cb9e8e845c88c49bc2a0087161b55e
-    search: []
+    search: [angle, left]
   - css: "angle-double-right"
     code: 0xF101
     uid: 55424edc1b6d98516bf2ca4b79679a22
-    search: []
+    search: [angle, right]
   - css: "angle-double-up"
     code: 0xF102
     uid: 6ebde74f2e9509fe289dd52d432a85d0
-    search: []
+    search: [angle, up]
   - css: "angle-down"
     code: 0xF107
     uid: dcb8857eb173115c3c4b27cb621187c3
-    search: []
+    search: [angle, down]
   - css: "angle-left"
     code: 0xF104
     uid: a2c3d759983c28b45bf11dc880546038
@@ -184,11 +184,11 @@ glyphs:
   - css: "angle-right"
     code: 0xF105
     uid: 137374c7161ca52cec677801788788f2
-    search: []
+    search: [angle, right]
   - css: "angle-up"
     code: 0xF106
     uid: 0dcdbc3f44f0b7e888ae79236961cf50
-    search: []
+    search: [angle, up]
   - css: angry
     code: 0xF556
     uid: 71c93d90cba917c4be2de533beb5defa
@@ -272,11 +272,11 @@ glyphs:
   - css: asterisk
     code: 0xF069
     uid: f7ac33904dc29f6bd8c9051efcb5182a
-    search: []
+    search: [asterisk]
   - css: at
     code: 0xF1FA
     uid: 8cebd6f4dcb1a8927d0befb5645810c2
-    search: []
+    search: [at]
   - css: atlas
     code: 0xF558
     uid: 6ff5cc7a5e7462699b7a34b5cc70e5e2
@@ -292,7 +292,7 @@ glyphs:
   - css: award
     code: 0xF559
     uid: 0c7c835bc29204c3ea49394f40a40819
-    search: []
+    search: [top, trophy, prize, award]
   - css: backspace
     code: 0xF55A
     uid: d59be71b2c0321cef179324c8f28a09e
@@ -316,7 +316,7 @@ glyphs:
   - css: barcode
     code: 0xF02A
     uid: 5456510f130b3c04a840dde6479f25e6
-    search: []
+    search: [barcode]
   - css: bars
     code: 0xF0C9
     uid: 110a15b896434a2e6ac5d4660c64b7ae
@@ -332,7 +332,7 @@ glyphs:
   - css: bath
     code: 0xF2CD
     uid: 7606307f8741a72258b6711cef6b66cb
-    search: []
+    search: [bathtub, s15]
   - css: "battery-empty"
     code: 0xF244
     uid: ee2ec856962e6c7467c16834b0cc8499
@@ -356,11 +356,11 @@ glyphs:
   - css: bed
     code: 0xF236
     uid: 76b9caacb3ee110faf242a1e9de07390
-    search: []
+    search: [bed, sleep]
   - css: beer
     code: 0xF0FC
     uid: 6e7cf43d6468c09d54588f81f99df1d0
-    search: []
+    search: [beer]
   - css: "bell-slash"
     code: 0xF1F6
     uid: 8936a31f4e8b6d1d79b0896c48912b48
@@ -368,7 +368,7 @@ glyphs:
   - css: bell
     code: 0xF0F3
     uid: 60c462bb5df331149014b003d735c31f
-    search: []
+    search: [alert, bell, jingle, bell-o]
   - css: "bezier-curve"
     code: 0xF55B
     uid: e45e596eb7a8199ba7db181f9bfee1f1
@@ -376,11 +376,11 @@ glyphs:
   - css: bicycle
     code: 0xF206
     uid: c51fd68f9f8c42fbcc2febef8f9ea8c0
-    search: []
+    search: [bicycle]
   - css: binoculars
     code: 0xF1E5
     uid: d7a513cb8e57d80dca0a062294990ec4
-    search: []
+    search: [binoculars ]
   - css: "birthday-cake"
     code: 0xF1FD
     uid: 790196b1bbdfdca0c032ee5d7ef34f02
@@ -396,7 +396,7 @@ glyphs:
   - css: bold
     code: 0xF032
     uid: ffa88b32451bc2a6ebf0fefa53432984
-    search: []
+    search: [editor, bold]
   - css: bolt
     code: 0xF0E7
     uid: 9e58352aecd113e2d3d107e161568980
@@ -404,7 +404,7 @@ glyphs:
   - css: bomb
     code: 0xF1E2
     uid: 7f2d18765db36c5fc328eecc89e35f13
-    search: []
+    search: [bomb]
   - css: bone
     code: 0xF5D7
     uid: fd56b7998fb32c840ae0b495a88ce971
@@ -424,11 +424,11 @@ glyphs:
   - css: book
     code: 0xF02D
     uid: 59ff1325da26c371d2635541aaeaa9e3
-    search: []
+    search: [book]
   - css: bookmark
     code: 0xF02E
     uid: b8677d9fce9249319b01ac8ef25c90c4
-    search: []
+    search: [bookmark]
   - css: "bowling-ball"
     code: 0xF436
     uid: 7c9aa69972f8fba3953cd59a41c4ced8
@@ -440,7 +440,7 @@ glyphs:
   - css: box
     code: 0xF466
     uid: a4ac93983714202b785256f9dc7d610b
-    search: []
+    search: [box]
   - css: boxes
     code: 0xF468
     uid: d308a44448c2fc6ef72f022d71dd76b1
@@ -460,7 +460,7 @@ glyphs:
   - css: briefcase
     code: 0xF0B1
     uid: 7f6a65587a3dfab16d795720a440c705
-    search: []
+    search: [briefcase]
   - css: "broadcast-tower"
     code: 0xF519
     uid: 582e84c760779ccb316e2926214b0eb5
@@ -472,15 +472,15 @@ glyphs:
   - css: brush
     code: 0xF55D
     uid: 3b23c7938d588ea45857b784c6992237
-    search: []
+    search: [brush]
   - css: bug
     code: 0xF188
     uid: f086776dc6a695801db1675074debdc7
-    search: []
+    search: [bug]
   - css: building
     code: 0xF1AD
     uid: 158327346636ffdcf9f977b437013ba6
-    search: []
+    search: [building]
   - css: bullhorn
     code: 0xF0A1
     uid: 1f03365bc88d829d157e651cabce7ebe
@@ -488,7 +488,7 @@ glyphs:
   - css: bullseye
     code: 0xF140
     uid: d5258c785262d8461089c44e33f37412
-    search: []
+    search: [bullseye]
   - css: burn
     code: 0xF46A
     uid: cc0acfccd69774795435f4589bb3bef3
@@ -500,7 +500,7 @@ glyphs:
   - css: bus
     code: 0xF207
     uid: 468104fa80d0d3f35643e242d13dde88
-    search: []
+    search: [bus, auto]
   - css: calculator
     code: 0xF1EC
     uid: f9848135b30f878f56cfc3944f1c05a3
@@ -528,7 +528,7 @@ glyphs:
   - css: calendar
     code: 0xF133
     uid: acfa6961b4a3f1bdff8632e59702d566
-    search: []
+    search: [calendar, date]
   - css: "camera-retro"
     code: 0xF083
     uid: 7c0423b9766ef96e4db56fb3dea1b02b
@@ -536,7 +536,7 @@ glyphs:
   - css: camera
     code: 0xF030
     uid: d4bdd7c25069c974a76ef11429c31115
-    search: []
+    search: [camera, photo]
   - css: cannabis
     code: 0xF55F
     uid: 1ffe791123d408b2d832294126f70bc4
@@ -600,15 +600,15 @@ glyphs:
   - css: "cart-arrow-down"
     code: 0xF218
     uid: 54deb9228a668d8d532b2a6eb5f88582
-    search: []
+    search: [cart, basket]
   - css: "cart-plus"
     code: 0xF217
     uid: 1cfed042c6c1ab4a6be2b60e8f2aac3b
-    search: []
+    search: [cart, basket]
   - css: certificate
     code: 0xF0A3
     uid: e46f89a5dd19decd0b765d8a89314ed5
-    search: []
+    search: [certificate]
   - css: "chalkboard-teacher"
     code: 0xF51C
     uid: 8a9b29e4767ea624832776f0343acb50
@@ -624,19 +624,19 @@ glyphs:
   - css: "chart-area"
     code: 0xF1FE
     uid: d9f098b291c9726ff664f412e370139b
-    search: []
+    search: [chart, area-chart]
   - css: "chart-bar"
     code: 0xF080
     uid: 08617556c23ed15b49c3a751abe3f1f3
-    search: []
+    search: [chart, bar, diagram, bar-chart]
   - css: "chart-line"
     code: 0xF201
     uid: 44ff0bc311bb7f73e59f785bac1ba953
-    search: []
+    search: [chart, line-chart]
   - css: "chart-pie"
     code: 0xF200
     uid: 488e326945fec185bf8b2d19e7150574
-    search: []
+    search: [chart, pie, pie-chart]
   - css: "check-circle"
     code: 0xF058
     uid: 27f5056a54a0da67c8844a6036dac322
@@ -652,7 +652,7 @@ glyphs:
   - css: check
     code: 0xF00C
     uid: f99e7acb0f4cb3d425327d08519ecb39
-    search: []
+    search: [check, check-square-o]
   - css: "chess-bishop"
     code: 0xF43A
     uid: d15f51403b77f9c5d4ea8a6bccf00fa4
@@ -720,7 +720,7 @@ glyphs:
   - css: child
     code: 0xF1AE
     uid: 40c8bf8ebb0b832c6592faea61fc30d6
-    search: []
+    search: [child, people]
   - css: church
     code: 0xF51D
     uid: 834a863cd5d24b44d9b5c89f5c7b8eb6
@@ -728,11 +728,11 @@ glyphs:
   - css: "circle-notch"
     code: 0xF1CE
     uid: 0be9a996a801c9a2db435f811865fd48
-    search: []
+    search: [circle, notch, circle-o-notch]
   - css: circle
     code: 0xF111
     uid: a6f0da12823ccef285d4a343df258e0b
-    search: []
+    search: [circle]
   - css: "clipboard-check"
     code: 0xF46C
     uid: 84f9292400e18fbe799a859284825780
@@ -748,7 +748,7 @@ glyphs:
   - css: clock
     code: 0xF017
     uid: e2e355ed0772f68136ec224593801cb8
-    search: []
+    search: [clock, time, clock-o]
   - css: clone
     code: 0xF24D
     uid: 5a89906bc294605ed6c7597efe12da5b
@@ -768,7 +768,7 @@ glyphs:
   - css: cloud
     code: 0xF0C2
     uid: 2e947ea7870e399a258e1b35324cb1bc
-    search: []
+    search: [cloud]
   - css: cocktail
     code: 0xF561
     uid: e206e40c2e80f2f3809813540b8bf772
@@ -780,15 +780,15 @@ glyphs:
   - css: code
     code: 0xF121
     uid: a8af46065393c2867fb5db46caa138ac
-    search: []
+    search: [code]
   - css: coffee
     code: 0xF0F4
     uid: e14c35a3141d26918317586486552dbe
-    search: []
+    search: [coffee, cup]
   - css: cog
     code: 0xF013
     uid: 2497217944e8c31f6895b1286d9d9b67
-    search: []
+    search: [settings, cog, gear, params]
   - css: cogs
     code: 0xF085
     uid: c251c27a79d03185decee88dd5003a0d
@@ -800,7 +800,7 @@ glyphs:
   - css: columns
     code: 0xF0DB
     uid: d74902a2ba7a6d8e3c68cb355b5d3632
-    search: []
+    search: [columns]
   - css: "comment-alt"
     code: 0xF27A
     uid: dd2375141591be31b8ebaf9fe105b5b3
@@ -816,7 +816,7 @@ glyphs:
   - css: comment
     code: 0xF075
     uid: 563acf84afd3bf8b3b1214f7fe461f85
-    search: []
+    search: [comment, reply, write]
   - css: comments
     code: 0xF086
     uid: 66b838b3c2e062437232732ba21832ba
@@ -828,7 +828,7 @@ glyphs:
   - css: compass
     code: 0xF14E
     uid: dc09599c96b788141039cdd4d41ce4b7
-    search: []
+    search: [compass]
   - css: compress
     code: 0xF066
     uid: b031cc4a3420eff213d77e6c0d440722
@@ -852,7 +852,7 @@ glyphs:
   - css: copyright
     code: 0xF1F9
     uid: 089821bf2ecd6e5bed1875c6672cdd33
-    search: []
+    search: [copyright]
   - css: couch
     code: 0xF4B8
     uid: fcdfa593bad53b25fee7a2d5ea9907c2
@@ -860,7 +860,7 @@ glyphs:
   - css: "credit-card"
     code: 0xF09D
     uid: 98a1ec74c7e261410b760c683ab5f769
-    search: []
+    search: [card, plastic, credit]
   - css: "crop-alt"
     code: 0xF565
     uid: bd3e8e7716d4c5cafd5368ca68dba5df
@@ -868,7 +868,7 @@ glyphs:
   - css: crop
     code: 0xF125
     uid: 4a0e1ffa2bdd84d42119a8ce44f2ea43
-    search: []
+    search: [crop]
   - css: crosshairs
     code: 0xF05B
     uid: a94f7f7220c83489077fc7cf3361e46e
@@ -884,11 +884,11 @@ glyphs:
   - css: cube
     code: 0xF1B2
     uid: 31b898ca3dcf6e1a26a20429dd2f928c
-    search: []
+    search: [cube]
   - css: cubes
     code: 0xF1B3
     uid: e7e39d13b99825d78a15502ce1c53bce
-    search: []
+    search: [cubes]
   - css: cut
     code: 0xF0C4
     uid: be9a25dd79628b1bb2e3bbb6cbec138b
@@ -896,7 +896,7 @@ glyphs:
   - css: database
     code: 0xF1C0
     uid: 0e8aa5e976ee2bbb33d7647e5c4bf9ec
-    search: []
+    search: [database]
   - css: deaf
     code: 0xF2A4
     uid: fb045a28d29d4e69af29fe26812a43b8
@@ -904,7 +904,7 @@ glyphs:
   - css: desktop
     code: 0xF108
     uid: c3800a835c73570a04002ddae32da87f
-    search: []
+    search: [desktop, screen, monitor]
   - css: diagnoses
     code: 0xF470
     uid: f472d12cb615ee4c66355c69f504ac41
@@ -992,7 +992,7 @@ glyphs:
   - css: download
     code: 0xF019
     uid: b9859ab949bafd5a4e65a49807ad7c26
-    search: []
+    search: [download]
   - css: "drafting-compass"
     code: 0xF568
     uid: 0200c48a5b849857af4b48bb23611d10
@@ -1016,11 +1016,11 @@ glyphs:
   - css: edit
     code: 0xF044
     uid: a4c1c1607b2cc801a1a2b98f69189acf
-    search: []
+    search: [pencil, write, reply, edit]
   - css: eject
     code: 0xF052
     uid: d72004124b94892271a6fa88931133b3
-    search: []
+    search: [eject, player]
   - css: "ellipsis-h"
     code: 0xF141
     uid: df253651068ffa2ee546f7f609e94be6
@@ -1048,7 +1048,7 @@ glyphs:
   - css: eraser
     code: 0xF12D
     uid: 7f2ccd7bb09bc91ca599a714c4c19f44
-    search: []
+    search: [eraser]
   - css: "euro-sign"
     code: 0xF153
     uid: 50e66801084439d789fff5347ad1f225
@@ -1076,7 +1076,7 @@ glyphs:
   - css: expand
     code: 0xF065
     uid: fd66ae3549057986241d45f4b8a75979
-    search: []
+    search: [expand]
   - css: "external-link-alt"
     code: 0xF35D
     uid: b4bc776194e82274661f5e6d48a13eec
@@ -1096,7 +1096,7 @@ glyphs:
   - css: eye
     code: 0xF06E
     uid: 26b000af6c0f51af0e77d55cdabdf229
-    search: []
+    search: [eye, subscribe]
   - css: "fast-backward"
     code: 0xF049
     uid: 07a18c1d59960c88d73e8a58824f580e
@@ -1108,7 +1108,7 @@ glyphs:
   - css: fax
     code: 0xF1AC
     uid: 2b0d71940d580d4b13cdc3e6e01468b9
-    search: []
+    search: [fax]
   - css: "feather-alt"
     code: 0xF56B
     uid: 7aec07cb3ab088e2c7748f5224e17a57
@@ -1120,11 +1120,11 @@ glyphs:
   - css: female
     code: 0xF182
     uid: a09f2315df9edd72daadd2d6f1e7d28b
-    search: []
+    search: [female]
   - css: "fighter-jet"
     code: 0xF0FB
     uid: 0ed11035b0ee461d2066f43ccbf16aed
-    search: []
+    search: [flight, plane, airplane, fly, jet]
   - css: "file-alt"
     code: 0xF15C
     uid: c1bb62797e65c064337c734eb417b01a
@@ -1132,15 +1132,15 @@ glyphs:
   - css: "file-archive"
     code: 0xF1C6
     uid: a376286934202e45e05f5ea961705ce9
-    search: []
+    search: [file, archive, file-zip-o]
   - css: "file-audio"
     code: 0xF1C7
     uid: 8afdffc67e76668bd87c2163223eea30
-    search: []
+    search: [file, audio, sound]
   - css: "file-code"
     code: 0xF1C9
     uid: be64edf5e89912dfba8e44b73fe31d85
-    search: []
+    search: [file, code]
   - css: "file-contract"
     code: 0xF56C
     uid: f7a67cecdce4a58d531e10a699abf990
@@ -1152,7 +1152,7 @@ glyphs:
   - css: "file-excel"
     code: 0xF1C3
     uid: 6c3018dd9cd21a654984b0384b7c1860
-    search: []
+    search: [file, excel]
   - css: "file-export"
     code: 0xF56E
     uid: c8d45ff6738ed95ef18cb6650d236bcc
@@ -1160,7 +1160,7 @@ glyphs:
   - css: "file-image"
     code: 0xF1C5
     uid: 8cf09afa4f9a2fb63e89e81b0a86e8e6
-    search: []
+    search: [file, image, picture]
   - css: "file-import"
     code: 0xF56F
     uid: 072c15e5b215069f033b709e8f0c8255
@@ -1184,11 +1184,11 @@ glyphs:
   - css: "file-pdf"
     code: 0xF1C1
     uid: 03d1e3935760a16cce0590439291e837
-    search: []
+    search: [file, pdf, file-pdf-o]
   - css: "file-powerpoint"
     code: 0xF1C4
     uid: f5f3ae8e6b11c76a6f433b72b3c59626
-    search: []
+    search: [file, powerpoint]
   - css: "file-prescription"
     code: 0xF572
     uid: d0eeb0e294fb86e42eed7eddbe5d0cb0
@@ -1204,11 +1204,11 @@ glyphs:
   - css: "file-video"
     code: 0xF1C8
     uid: 3bf198371a9210675cf8f69e4b0f48c5
-    search: []
+    search: [file, video, movie]
   - css: "file-word"
     code: 0xF1C2
     uid: c3a09d10804dedaa6ea4f15801b6105b
-    search: []
+    search: [file, word]
   - css: file
     code: 0xF15B
     uid: fb9537df4ba9266219caeceb0ed5fc2b
@@ -1228,7 +1228,7 @@ glyphs:
   - css: filter
     code: 0xF0B0
     uid: 7f08e0b160eb8ad54679dc970964b02c
-    search: []
+    search: [filter]
   - css: fingerprint
     code: 0xF577
     uid: 0d021ee8330ea76e37f582dec0bd14d8
@@ -1240,7 +1240,7 @@ glyphs:
   - css: fire
     code: 0xF06D
     uid: 0c002ca3757d398d8006955939fec1e2
-    search: []
+    search: [fire]
   - css: "first-aid"
     code: 0xF479
     uid: 9e4a438510dc9a35e4211e2a40815978
@@ -1252,11 +1252,11 @@ glyphs:
   - css: "flag-checkered"
     code: 0xF11E
     uid: e77f73a23a937dd6327cf18efb518309
-    search: []
+    search: [flag]
   - css: flag
     code: 0xF024
     uid: 046ce60499eb4a4f430af26ccbbb23ec
-    search: []
+    search: [flag]
   - css: flask
     code: 0xF0C3
     uid: ac821644dee54eae2a1629e3eafa812d
@@ -1268,15 +1268,15 @@ glyphs:
   - css: "folder-open"
     code: 0xF07C
     uid: 95f6131fb494060788bb1dca90608cbe
-    search: []
+    search: [folder]
   - css: folder
     code: 0xF07B
     uid: e02e31be2b35a694e2b4db4dcb1e54bf
-    search: []
+    search: [folder]
   - css: font
     code: 0xF031
     uid: 2ec2337e6e10df60fa350b6109e20f23
-    search: []
+    search: [editor, font]
   - css: "football-ball"
     code: 0xF44E
     uid: 210c1e1fac16d863b9ca7c34348e9f18
@@ -1284,7 +1284,7 @@ glyphs:
   - css: forward
     code: 0xF04E
     uid: d634737b82153bcc1dc6c56c4c8eeb8d
-    search: []
+    search: [forward]
   - css: frog
     code: 0xF52E
     uid: 70d5896f642a83450f32cf902ee66ef8
@@ -1296,7 +1296,7 @@ glyphs:
   - css: frown
     code: 0xF119
     uid: 0590b85d5ee9b12515767f4ee409da06
-    search: []
+    search: [emoticon, sniley, frown, frown-o]
   - css: futbol
     code: 0xF1E3
     uid: 4b08aaeb7f27821088e94b4794d98b23
@@ -1304,7 +1304,7 @@ glyphs:
   - css: gamepad
     code: 0xF11B
     uid: f88d23319e1b6b993d6f9c0ed42ff542
-    search: []
+    search: [gamepad]
   - css: "gas-pump"
     code: 0xF52F
     uid: 6af934001b4525cf65c78fb0f39fa384
@@ -1324,7 +1324,7 @@ glyphs:
   - css: gift
     code: 0xF06B
     uid: 49c42d551fbe504232a5d7d9cb3a31cd
-    search: []
+    search: [gift, present, package, box]
   - css: "glass-martini-alt"
     code: 0xF57B
     uid: 69e721b384d655b45bd5da34c3da7ca0
@@ -1352,7 +1352,7 @@ glyphs:
   - css: globe
     code: 0xF0AC
     uid: 399727afdb139c27c4bc483fa8baeb7d
-    search: []
+    search: [globe, world]
   - css: "golf-ball"
     code: 0xF450
     uid: 42836a295f8910d253cafe2f2135f7eb
@@ -1360,7 +1360,7 @@ glyphs:
   - css: "graduation-cap"
     code: 0xF19D
     uid: d66c124872e6b62b6e6e2e35e612ebee
-    search: []
+    search: ['graduation cap']
   - css: "greater-than-equal"
     code: 0xF532
     uid: 15abd18d476aea98ff6c1e7801069846
@@ -1512,7 +1512,7 @@ glyphs:
   - css: hdd
     code: 0xF0A0
     uid: 4018a2aecf67c22e64550bcd0409cdef
-    search: []
+    search: [hdd, drive, disk]
   - css: heading
     code: 0xF1DC
     uid: f6d741d4373c449722c019fd9e814063
@@ -1524,7 +1524,7 @@ glyphs:
   - css: headphones
     code: 0xF025
     uid: 1d8bf857bccf76463b1e19ae02ffb7c5
-    search: []
+    search: [sound, music, headphones]
   - css: headset
     code: 0xF590
     uid: ce8d1168ed4e058e9767e86801a1503c
@@ -1532,11 +1532,11 @@ glyphs:
   - css: heart
     code: 0xF004
     uid: 8d90ac0804cf25ccdf003c86ce8f9538
-    search: []
+    search: [heart]
   - css: heartbeat
     code: 0xF21E
     uid: acd0f5db52c8dc32eb53fb59c77a98f3
-    search: []
+    search: [heartbeat]
   - css: helicopter
     code: 0xF533
     uid: 1498920bc6133c5c875a48bfa23030c7
@@ -1548,7 +1548,7 @@ glyphs:
   - css: history
     code: 0xF1DA
     uid: c2948234b84ec6b1c69dbc096f78feb9
-    search: []
+    search: [history]
   - css: "hockey-puck"
     code: 0xF453
     uid: e706e132aa0a24cd75c31380286a4a42
@@ -1556,7 +1556,7 @@ glyphs:
   - css: home
     code: 0xF015
     uid: 8cb623999700ad53cfade562b636f152
-    search: []
+    search: [home]
   - css: "hospital-alt"
     code: 0xF47D
     uid: e85360130dd041cd2a157f13152a4229
@@ -1568,7 +1568,7 @@ glyphs:
   - css: hospital
     code: 0xF0F8
     uid: b1f7204d8a0f6a81c0f5f1df08f50233
-    search: []
+    search: [hospital      ]
   - css: "hot-tub"
     code: 0xF593
     uid: c41ce3092a6eb55e9a156c4c86172ec2
@@ -1608,7 +1608,7 @@ glyphs:
   - css: "id-card"
     code: 0xF2C2
     uid: 742f35e7b3b5e36e21259fd2e51cfa22
-    search: []
+    search: [drivers-license]
   - css: image
     code: 0xF03E
     uid: 4bab841495891571bfcdaf162605a24b
@@ -1620,7 +1620,7 @@ glyphs:
   - css: inbox
     code: 0xF01C
     uid: a7513061a262734a330b8441053e32f9
-    search: []
+    search: [inbox, stack]
   - css: indent
     code: 0xF03C
     uid: a62ab3e9666c2ba0017f1f491a5f9f13
@@ -1640,11 +1640,11 @@ glyphs:
   - css: info
     code: 0xF129
     uid: 0264c8074a4a20ad1e1f9a36f10b0927
-    search: []
+    search: [info]
   - css: italic
     code: 0xF033
     uid: 9c87ad0175d712f786586853ce125d3a
-    search: []
+    search: [editor, italic]
   - css: joint
     code: 0xF595
     uid: f7a83ea898860e5778d9bacb5e26dc90
@@ -1652,11 +1652,11 @@ glyphs:
   - css: key
     code: 0xF084
     uid: 4d623c3e1b35c7e4957e274ca32384e3
-    search: []
+    search: [key]
   - css: keyboard
     code: 0xF11C
     uid: d64865ce23cdd08c1a81f0dfd87dd26c
-    search: []
+    search: [keyboard, keyboard-o]
   - css: "kiss-beam"
     code: 0xF597
     uid: c3a227c99ad07b745378fa1da3f6a79a
@@ -1676,7 +1676,7 @@ glyphs:
   - css: language
     code: 0xF1AB
     uid: 477f62b70bbf61e3a0314cfab1928e00
-    search: []
+    search: [language]
   - css: "laptop-code"
     code: 0xF5FC
     uid: 3a1657e2972de2988cb5e1bd0dad9a86
@@ -1684,7 +1684,7 @@ glyphs:
   - css: laptop
     code: 0xF109
     uid: c970428809c1986fcbf361af97028613
-    search: []
+    search: [laptop, notebook]
   - css: "laugh-beam"
     code: 0xF59A
     uid: 01a2d0d5216687069a382eed8d6d4e47
@@ -1708,7 +1708,7 @@ glyphs:
   - css: leaf
     code: 0xF06C
     uid: 8289a3d10555825373a461c21e87b766
-    search: []
+    search: [leaf]
   - css: lemon
     code: 0xF094
     uid: bda0ef0782ffc6c0c8085d41623368f0
@@ -1736,11 +1736,11 @@ glyphs:
   - css: lightbulb
     code: 0xF0EB
     uid: 68ff6e151a2a0a43b385d58bdf210b8a
-    search: []
+    search: [idea, lamp, light, lightbulb-o]
   - css: link
     code: 0xF0C1
     uid: 9804921e022e4890fad0d7ee24bac4ed
-    search: []
+    search: [link, chain]
   - css: "lira-sign"
     code: 0xF195
     uid: 47108102c096845053c50d19ff0b9e52
@@ -1748,7 +1748,7 @@ glyphs:
   - css: "list-alt"
     code: 0xF022
     uid: e4136fe4a27475b396b0f9877f65a2d4
-    search: []
+    search: [list]
   - css: "list-ol"
     code: 0xF0CB
     uid: 91a189cf7e57ddcc57fd37b6879bc447
@@ -1760,7 +1760,7 @@ glyphs:
   - css: list
     code: 0xF03A
     uid: c498d7e0d16030ca86204c907097a386
-    search: []
+    search: [editor, list]
   - css: "location-arrow"
     code: 0xF124
     uid: 00ef3540282b7b153a17c861362db605
@@ -1768,11 +1768,11 @@ glyphs:
   - css: "lock-open"
     code: 0xF3C1
     uid: 0eae5cb632b6a7f119fdd9fb92b71972
-    search: []
+    search: [lock, open, unlock]
   - css: lock
     code: 0xF023
     uid: c4dac14ce465d6b7fb74296d9b150c97
-    search: []
+    search: [lock]
   - css: "long-arrow-alt-down"
     code: 0xF309
     uid: 72b5eec87677f25e63f39feea0721b7c
@@ -1800,15 +1800,15 @@ glyphs:
   - css: magic
     code: 0xF0D0
     uid: ffe9a3cc29df0258bd1fec57174568d3
-    search: []
+    search: [magic]
   - css: magnet
     code: 0xF076
     uid: d97269ee41537e1a5dd599316d5edada
-    search: []
+    search: [magnet]
   - css: male
     code: 0xF183
     uid: ff636b33b32ff7cbc25167f1a6247c09
-    search: []
+    search: [male]
   - css: "map-marked-alt"
     code: 0xF5A0
     uid: 18aea48474847db19f1cad5eb5d1fa6e
@@ -1844,23 +1844,23 @@ glyphs:
   - css: "mars-double"
     code: 0xF227
     uid: 7c8b0d037d281216f26855bda8aae22a
-    search: []
+    search: [mars, astrology]
   - css: "mars-stroke-h"
     code: 0xF22B
     uid: 7b9175d0f7d599b4ad04ef5fa54a00ee
-    search: []
+    search: [mars, astrology]
   - css: "mars-stroke-v"
     code: 0xF22A
     uid: 1ffa56f61336dd10783c7b5896c4ea95
-    search: []
+    search: [mars, astrology]
   - css: "mars-stroke"
     code: 0xF229
     uid: fe49c948dae497640874e65f3110a996
-    search: []
+    search: [mars, astrology]
   - css: mars
     code: 0xF222
     uid: c910301865ea8c458905adba3ec3ee28
-    search: []
+    search: [mars, astrology]
   - css: medal
     code: 0xF5A2
     uid: 74e1806e38a0ea432573c1cbf1a65b9d
@@ -1868,7 +1868,7 @@ glyphs:
   - css: medkit
     code: 0xF0FA
     uid: 3d650cc75ba48b1c1faa9002fd602814
-    search: []
+    search: [medkit]
   - css: "meh-blank"
     code: 0xF5A4
     uid: bd5a05c62df9b330fa4de90a9dbff62d
@@ -1880,7 +1880,7 @@ glyphs:
   - css: meh
     code: 0xF11A
     uid: 2cc111cdbb83c521e364dd0bb085253e
-    search: []
+    search: [emoticon, sniley, meh]
   - css: memory
     code: 0xF538
     uid: 4b738a903b62a137568620335fdf92dc
@@ -1888,7 +1888,7 @@ glyphs:
   - css: mercury
     code: 0xF223
     uid: 109510ef81271712aafed2c82c315b14
-    search: []
+    search: [mercury, astrology]
   - css: microchip
     code: 0xF2DB
     uid: 4825bc2f80148ccc0ebbde5cacba882a
@@ -1924,7 +1924,7 @@ glyphs:
   - css: minus
     code: 0xF068
     uid: 7859fe9b28866f00cef7ef839720296f
-    search: []
+    search: [minus]
   - css: "mobile-alt"
     code: 0xF3CD
     uid: 52d4dae5dcd76eed880964f0ba906d62
@@ -1932,7 +1932,7 @@ glyphs:
   - css: mobile
     code: 0xF10B
     uid: 1b063c1ad65188cc4b9a5972b613922c
-    search: []
+    search: [mobile, phone]
   - css: "money-bill-alt"
     code: 0xF3D1
     uid: c737c896aacb8429124f018a5a1d1b4b
@@ -1964,7 +1964,7 @@ glyphs:
   - css: moon
     code: 0xF186
     uid: 3d0ae2cbd3edbb5b7fb706051a535a19
-    search: []
+    search: [moon]
   - css: "mortar-pestle"
     code: 0xF5A7
     uid: d109d612857def0003f86f0acdf9d322
@@ -1972,7 +1972,7 @@ glyphs:
   - css: motorcycle
     code: 0xF21C
     uid: 7deaad97e2067d276f025a0474fdfe81
-    search: []
+    search: [motorcycle]
   - css: "mouse-pointer"
     code: 0xF245
     uid: a633bcb8cb98dec80c8498f4c2993e00
@@ -1980,15 +1980,15 @@ glyphs:
   - css: music
     code: 0xF001
     uid: bcc0c1ea0e32cb1ae81dd70ab49601ed
-    search: []
+    search: [music, note, song, sound]
   - css: neuter
     code: 0xF22C
     uid: 628f2609f752101fa65695f9314d656d
-    search: []
+    search: [neuter, astrology]
   - css: newspaper
     code: 0xF1EA
     uid: dbc9523c035379e2e271a97b722000e6
-    search: []
+    search: [newspaper]
   - css: "not-equal"
     code: 0xF53E
     uid: 798822f2b4f8a6fb39155460e6156114
@@ -2032,7 +2032,7 @@ glyphs:
   - css: "paper-plane"
     code: 0xF1D8
     uid: e32baa3d9b4c41dca2418dd32ab4089d
-    search: []
+    search: [flight, plane, airplane, fly]
   - css: paperclip
     code: 0xF0C6
     uid: f4dcc4d030a523024409a74b0988ed5e
@@ -2044,7 +2044,7 @@ glyphs:
   - css: paragraph
     code: 0xF1DD
     uid: 601f47fff0a2645db600e8fbe2b8de18
-    search: []
+    search: [paragraph]
   - css: parking
     code: 0xF540
     uid: d8c72b10967cf0ee3fe946c75203eb9f
@@ -2056,7 +2056,7 @@ glyphs:
   - css: paste
     code: 0xF0EA
     uid: 70b762c361415ea63b68d13bd9903a2b
-    search: []
+    search: [paste]
   - css: "pause-circle"
     code: 0xF28B
     uid: 320f29c0fd86342e0498a6680747d411
@@ -2064,11 +2064,11 @@ glyphs:
   - css: pause
     code: 0xF04C
     uid: f230fcb93e2074a83a8e43e0f4b0991c
-    search: []
+    search: [pause, player]
   - css: paw
     code: 0xF1B0
     uid: 4b3f71c21bbfa56aae70e482fb4f46b4
-    search: []
+    search: [paw]
   - css: "pen-alt"
     code: 0xF305
     uid: e1de9ed97d57fd974964cf7dd9cae83a
@@ -2124,7 +2124,7 @@ glyphs:
   - css: phone
     code: 0xF095
     uid: f99db85188e1004be3a2cb289b19da38
-    search: []
+    search: [phone, telephone, call]
   - css: "piggy-bank"
     code: 0xF4D3
     uid: c5506baf57558174d6e92149cdff5b19
@@ -2152,11 +2152,11 @@ glyphs:
   - css: play
     code: 0xF04B
     uid: df87f8fba1d221245bdf9d2272acf210
-    search: []
+    search: [play, player]
   - css: plug
     code: 0xF1E6
     uid: 6be3220fea989b5530cc55ed22b2ad11
-    search: []
+    search: [plug]
   - css: "plus-circle"
     code: 0xF055
     uid: 3fbe3329f5f3a10ee280c6cc1615ab61
@@ -2168,7 +2168,7 @@ glyphs:
   - css: plus
     code: 0xF067
     uid: d2720c00ced81b6f16ed16e303114b34
-    search: []
+    search: [plus]
   - css: podcast
     code: 0xF2CE
     uid: e17e03ade8d93756ff6a062b3c911b91
@@ -2208,7 +2208,7 @@ glyphs:
   - css: print
     code: 0xF02F
     uid: 11e337b60e51fb2ca8baccc4f3bf61d3
-    search: []
+    search: [print]
   - css: procedures
     code: 0xF487
     uid: ab2fdcd8204bbb9a05f6387ef17b55a4
@@ -2224,7 +2224,7 @@ glyphs:
   - css: qrcode
     code: 0xF029
     uid: 5c167736b9ac39d767ac81981eda00d5
-    search: []
+    search: [qrcode]
   - css: "question-circle"
     code: 0xF059
     uid: b41beeddf6bf54303a7a5fd9fce0326d
@@ -2240,11 +2240,11 @@ glyphs:
   - css: "quote-left"
     code: 0xF10D
     uid: aa59d362d8722ed5eaca7e47cbe64fe0
-    search: []
+    search: [quote]
   - css: "quote-right"
     code: 0xF10E
     uid: 4b47a62850b4474469f463085f87d753
-    search: []
+    search: [quote]
   - css: random
     code: 0xF074
     uid: e9b412971ee4711067c32e8962dda2b2
@@ -2256,7 +2256,7 @@ glyphs:
   - css: recycle
     code: 0xF1B8
     uid: 74e7c6258c290fbd951a583ac96859b6
-    search: []
+    search: [recycle]
   - css: "redo-alt"
     code: 0xF2F9
     uid: 50f30e423d2e6174fbb45c8b312a8bc1
@@ -2272,15 +2272,15 @@ glyphs:
   - css: "reply-all"
     code: 0xF122
     uid: 2ebd3817561461a004e7c127968bfa69
-    search: []
+    search: [reply]
   - css: reply
     code: 0xF3E5
     uid: 7cc1c06668fc91153803702ab1cd0fc3
-    search: []
+    search: [reply]
   - css: retweet
     code: 0xF079
     uid: bd931d45550b83d1bd0df7c01b1f9a26
-    search: []
+    search: [retweet, twitter]
   - css: ribbon
     code: 0xF4D6
     uid: 04814ebcd1b6fcbb0f8a8337c3c48b39
@@ -2288,7 +2288,7 @@ glyphs:
   - css: road
     code: 0xF018
     uid: 122e7b80551ba512498185d713a59c40
-    search: []
+    search: [road]
   - css: robot
     code: 0xF544
     uid: 69c29b378b6375d2e23cde2428a8cfdf
@@ -2296,7 +2296,7 @@ glyphs:
   - css: rocket
     code: 0xF135
     uid: cdf49cffaf7a45a5b5b6cdbf8ffddb1b
-    search: []
+    search: [rocket]
   - css: route
     code: 0xF4D7
     uid: 87af18417d5ced2fcbdab4726d6959de
@@ -2308,7 +2308,7 @@ glyphs:
   - css: rss
     code: 0xF09E
     uid: 394b560f2fb3a20cd0c0f3c007d2642d
-    search: []
+    search: [rss]
   - css: "ruble-sign"
     code: 0xF158
     uid: b51ca886f45220371cd216720c2173b6
@@ -2364,7 +2364,7 @@ glyphs:
   - css: search
     code: 0xF002
     uid: 3f9d2081ed38cc4343500726f417a942
-    search: []
+    search: [search, find]
   - css: seedling
     code: 0xF4D8
     uid: dd6d4cd9ca7088fdab4dcbca4d882767
@@ -2372,7 +2372,7 @@ glyphs:
   - css: server
     code: 0xF233
     uid: 8b5725c27ba71fc75b441f55b1e01256
-    search: []
+    search: [server]
   - css: shapes
     code: 0xF61F
     uid: 3dc7510779079b02aca9aaac3f0bf464
@@ -2392,7 +2392,7 @@ glyphs:
   - css: share
     code: 0xF064
     uid: f2e880cd03f99d1290564337ea47ca45
-    search: []
+    search: [share]
   - css: "shekel-sign"
     code: 0xF20B
     uid: dde9611eb29442852499f1a0b5336619
@@ -2404,7 +2404,7 @@ glyphs:
   - css: ship
     code: 0xF21A
     uid: 423ec10ea1a8693fde5933f92a31899c
-    search: []
+    search: [ship, boat, swim]
   - css: "shipping-fast"
     code: 0xF48B
     uid: f13bfbb2fbe2c98a0424d99ec9803189
@@ -2440,7 +2440,7 @@ glyphs:
   - css: "sign-language"
     code: 0xF2A7
     uid: cf3ebef067a2c5e53dd9aca6e2b9de18
-    search: []
+    search: [signing]
   - css: "sign-out-alt"
     code: 0xF2F5
     uid: 2cf04be2bbe499fdb431a6922b6169e3
@@ -2452,7 +2452,7 @@ glyphs:
   - css: signal
     code: 0xF012
     uid: 108ce2fc7663e8bf7e91c8d301afb61d
-    search: []
+    search: [broadcast, wifi, signal]
   - css: signature
     code: 0xF5B7
     uid: aec085fe21ccb7f0b4a0bc408f12774d
@@ -2460,7 +2460,7 @@ glyphs:
   - css: sitemap
     code: 0xF0E8
     uid: e6d89e01478d0da543d86a192bea782e
-    search: []
+    search: [sitemap]
   - css: skull
     code: 0xF54C
     uid: 83db9d34c617df51322405bf92bc13b0
@@ -2480,7 +2480,7 @@ glyphs:
   - css: smile
     code: 0xF118
     uid: d8596ae8435effb5655a361788188cf4
-    search: []
+    search: [emoticon, sniley, smile, happy, smile-o]
   - css: "smoking-ban"
     code: 0xF54D
     uid: 2bb0ca9d2f53a56d0ee4797f45b2428e
@@ -2516,7 +2516,7 @@ glyphs:
   - css: "sort-down"
     code: 0xF0DD
     uid: aa376f229e71cdf4b3f43de6693eca1e
-    search: []
+    search: [sort]
   - css: "sort-numeric-down"
     code: 0xF162
     uid: c6f61fcae22353e259f4bc5c54a1a903
@@ -2528,11 +2528,11 @@ glyphs:
   - css: "sort-up"
     code: 0xF0DE
     uid: d2308efaea49a65c69432fad1637de4b
-    search: []
+    search: [sort]
   - css: sort
     code: 0xF0DC
     uid: ab56a0b4a98301e42baab3e0c964a456
-    search: []
+    search: [sort]
   - css: spa
     code: 0xF5BB
     uid: 4a181d5a0121d1b6c8d7047a6fd2096a
@@ -2540,11 +2540,11 @@ glyphs:
   - css: "space-shuttle"
     code: 0xF197
     uid: 177361bf23eff1cddb7fd57dde793469
-    search: []
+    search: [space, shuttle]
   - css: spinner
     code: 0xF110
     uid: 685a41bd209ad5e2805e1fbc2addc4f7
-    search: []
+    search: [spinner]
   - css: splotch
     code: 0xF5BC
     uid: 4d2c9ae04e4dd505bafe54fbe2666a99
@@ -2568,11 +2568,11 @@ glyphs:
   - css: "star-half-alt"
     code: 0xF5C0
     uid: 90d09be556af579c1287e939ed0eb80b
-    search: []
+    search: [star]
   - css: "star-half"
     code: 0xF089
     uid: fc6e090b2ce93b91f132e6db7bd8a3e1
-    search: []
+    search: [star]
   - css: "star-of-life"
     code: 0xF621
     uid: 7d0c1829d04144d742afd92827ac95a6
@@ -2580,7 +2580,7 @@ glyphs:
   - css: star
     code: 0xF005
     uid: de2f3e834dd3d33c41e5a28ea3d437bb
-    search: []
+    search: [star]
   - css: "step-backward"
     code: 0xF048
     uid: 3ff64bed54a97acbd1cef131fcd18d84
@@ -2592,7 +2592,7 @@ glyphs:
   - css: stethoscope
     code: 0xF0F1
     uid: ca12dc914420b80ac6507fdbe0ea9af5
-    search: []
+    search: [stethoscope]
   - css: "sticky-note"
     code: 0xF249
     uid: 03b1b52e98bc206539e597bfd999770e
@@ -2604,7 +2604,7 @@ glyphs:
   - css: stop
     code: 0xF04D
     uid: 25a69810aca539f6a8012c26b9c3fc02
-    search: []
+    search: [stop, player]
   - css: stopwatch
     code: 0xF2F2
     uid: 39cce95f2c8a4d66a243a8bd672fb886
@@ -2624,7 +2624,7 @@ glyphs:
   - css: "street-view"
     code: 0xF21D
     uid: 285fe12389143f49c971919980e9d6ae
-    search: []
+    search: [street, view]
   - css: strikethrough
     code: 0xF0CC
     uid: 8e232c3297ea0e383d96f219d1d64398
@@ -2636,11 +2636,11 @@ glyphs:
   - css: subscript
     code: 0xF12C
     uid: 83b92a13cd17bb55d0cb3f1a4213d551
-    search: []
+    search: [editor, subscript]
   - css: subway
     code: 0xF239
     uid: 9259a87034745a372cc2ada09360ee21
-    search: []
+    search: [subway]
   - css: "suitcase-rolling"
     code: 0xF5C1
     uid: 815a80aae066d277c194b09601a7ebf0
@@ -2648,15 +2648,15 @@ glyphs:
   - css: suitcase
     code: 0xF0F2
     uid: 0dad41c8b4dd485405fdc941ff5fade0
-    search: []
+    search: [suitcase]
   - css: sun
     code: 0xF185
     uid: 4a2ed0e5772f459b9b79b916d8b3f95e
-    search: []
+    search: [sun, sun-o]
   - css: superscript
     code: 0xF12B
     uid: 322a4ca1ca701a2957e258471daf5ac8
-    search: []
+    search: [editor, superscript]
   - css: surprise
     code: 0xF5C2
     uid: 50412f1b79149a23e28a669d71827066
@@ -2692,7 +2692,7 @@ glyphs:
   - css: table
     code: 0xF0CE
     uid: e52e8f1e739260dd7c4e0ba840fa6b84
-    search: []
+    search: [table]
   - css: "tablet-alt"
     code: 0xF3FA
     uid: 22a3c921d5033b08bba3df763bc516a6
@@ -2700,7 +2700,7 @@ glyphs:
   - css: tablet
     code: 0xF10A
     uid: 23da28377247606b9f9eab2ab9e54ed8
-    search: []
+    search: [tablet]
   - css: tablets
     code: 0xF490
     uid: 9ac27d18dd9af92975cc08045aca6a4d
@@ -2712,11 +2712,11 @@ glyphs:
   - css: tag
     code: 0xF02B
     uid: 12baca20d19cb00b289fc17dc215e723
-    search: []
+    search: [tag, category, price, offer]
   - css: tags
     code: 0xF02C
     uid: 14614a33a8b804ba68fb7b25185592c6
-    search: []
+    search: [tag, category, price, offer]
   - css: tape
     code: 0xF4DB
     uid: dc0025538634470d107b0dc15188b28a
@@ -2724,11 +2724,11 @@ glyphs:
   - css: tasks
     code: 0xF0AE
     uid: 468572364fc2c62567ac0aef2a82edcd
-    search: []
+    search: [tasks]
   - css: taxi
     code: 0xF1BA
     uid: ce51f98ffcb207e65bec0b6be25286f1
-    search: []
+    search: [taxi, auto, car]
   - css: "teeth-open"
     code: 0xF62F
     uid: bf272452ed60e12a0e761ea25a69c148
@@ -2740,27 +2740,27 @@ glyphs:
   - css: terminal
     code: 0xF120
     uid: 2f4778e66a1abe8b82dccdb26c3ad2e1
-    search: []
+    search: [terminal, prompt]
   - css: "text-height"
     code: 0xF034
     uid: 1e241705ed414b180ddf2992bcb39a67
-    search: []
+    search: [editor, text, height]
   - css: "text-width"
     code: 0xF035
     uid: d3ea7245ae750d9acb940bcbef08720a
-    search: []
+    search: [editor, text, width]
   - css: "th-large"
     code: 0xF009
     uid: 1180267e3fbac0d0f0dd2338f595bf07
-    search: []
+    search: [image, list, thumbnails]
   - css: "th-list"
     code: 0xF00B
     uid: e6de2bd9520230bb0a0c5f820b2f93c4
-    search: []
+    search: [list]
   - css: th
     code: 0xF00A
     uid: 76ee985010cf6275a0a898ddefc3c633
-    search: []
+    search: [image, list, thumbnails]
   - css: "theater-masks"
     code: 0xF630
     uid: 8d6413174116a4eeb855354caea20805
@@ -2780,7 +2780,7 @@ glyphs:
   - css: "thermometer-quarter"
     code: 0xF2CA
     uid: b505562771bac9d881a821270d790173
-    search: []
+    search: [thermometer-1]
   - css: "thermometer-three-quarters"
     code: 0xF2C8
     uid: fe6ad196727358c8e2d3667b2b86c30d
@@ -2788,15 +2788,15 @@ glyphs:
   - css: thermometer
     code: 0xF491
     uid: 0fb6984f023057ab0da59035b02e8e22
-    search: []
+    search: [thermometer-full, thermometer-4]
   - css: "thumbs-down"
     code: 0xF165
     uid: dc0c283e91b13de3703c810a79f58c22
-    search: []
+    search: [thumbs, vote, down, unlike, dislike, thumbs-o-down]
   - css: "thumbs-up"
     code: 0xF164
     uid: af91e01ed2b416cfb99e89c7f9592142
-    search: []
+    search: [thumbs, vote, up, like, love, thumbs-o-up]
   - css: thumbtack
     code: 0xF08D
     uid: 81cb3bbf09e3f09f11598affa5511928
@@ -2820,7 +2820,7 @@ glyphs:
   - css: tint
     code: 0xF043
     uid: 9d017b0c21519cab13b558638c2e93e4
-    search: []
+    search: [tint]
   - css: tired
     code: 0xF5C8
     uid: 71539a1f5250be460599179d8c76d3fd
@@ -2828,11 +2828,11 @@ glyphs:
   - css: "toggle-off"
     code: 0xF204
     uid: 6124bb112befe12ff806d0f8c058d700
-    search: []
+    search: [toggle, switch, off, disable]
   - css: "toggle-on"
     code: 0xF205
     uid: 6df304b7dbe01579038c977fa653d89c
-    search: []
+    search: [toggle, switch, on, enable]
   - css: toolbox
     code: 0xF552
     uid: fae18670defbc7efc59e9ebd9e03360a
@@ -2852,15 +2852,15 @@ glyphs:
   - css: train
     code: 0xF238
     uid: 0d3d82f8559d82730823c7bca4390a28
-    search: []
+    search: [train]
   - css: "transgender-alt"
     code: 0xF225
     uid: 913657d3a718bae6ec871bef2ec60445
-    search: []
+    search: [transgender, astrology]
   - css: transgender
     code: 0xF224
     uid: 46c2505cddee5058b15ddc8e676d6b6c
-    search: []
+    search: [transgender, astrology]
   - css: "trash-alt"
     code: 0xF2ED
     uid: b76d01715e61c511cfd5fecbfe842db4
@@ -2868,11 +2868,11 @@ glyphs:
   - css: trash
     code: 0xF1F8
     uid: 6f0c7b8b04010683d042c3c3fab94d8a
-    search: []
+    search: [trash, trash-o]
   - css: tree
     code: 0xF1BB
     uid: f5bce1f8eb5b9efbf54d2a91d9715220
-    search: []
+    search: [tree]
   - css: trophy
     code: 0xF091
     uid: c1abb2d9c3d58ab39ad05d2aa045a6cf
@@ -2896,7 +2896,7 @@ glyphs:
   - css: truck
     code: 0xF0D1
     uid: ad1049f6cc05a811a0b285f32f759dec
-    search: []
+    search: [truck, auto, car]
   - css: tshirt
     code: 0xF553
     uid: 4a5b2dd1d0f8054079c5a183098d120e
@@ -2904,7 +2904,7 @@ glyphs:
   - css: tty
     code: 0xF1E4
     uid: d045f242d85c326817901b0df9df17cc
-    search: []
+    search: [tty, teletype]
   - css: tv
     code: 0xF26C
     uid: 1398102ae71627e066656817985b8b74
@@ -2916,11 +2916,11 @@ glyphs:
   - css: umbrella
     code: 0xF0E9
     uid: a13d260efcfa5514d753cd003a6dfb5b
-    search: []
+    search: [umbrella]
   - css: underline
     code: 0xF0CD
     uid: 95b483eb5b861881a870121b68d716dc
-    search: []
+    search: [underline]
   - css: "undo-alt"
     code: 0xF2EA
     uid: a3e7aaa6810adfd629c7abcfeabdba3d
@@ -2940,7 +2940,7 @@ glyphs:
   - css: unlink
     code: 0xF127
     uid: 88bdb4b95809b9d8749343b0ac1bbc65
-    search: []
+    search: [unlink, chain-broken]
   - css: "unlock-alt"
     code: 0xF13E
     uid: cfc56b465c8ebf5118da1c8f28be87fb
@@ -2952,7 +2952,7 @@ glyphs:
   - css: upload
     code: 0xF093
     uid: 70437c71f705512dccca297a5cb729c5
-    search: []
+    search: [upload]
   - css: "user-alt-slash"
     code: 0xF4FA
     uid: eff85e3f936c5f7b32eb0d5ed118dcaf
@@ -3000,7 +3000,7 @@ glyphs:
   - css: "user-md"
     code: 0xF0F0
     uid: f1c9fb8301b42f354c296585d00ae79c
-    search: []
+    search: [medic]
   - css: "user-minus"
     code: 0xF503
     uid: c8c34d5ede4ce8687b39c8d9af41c7de
@@ -3012,11 +3012,11 @@ glyphs:
   - css: "user-plus"
     code: 0xF234
     uid: c868d6a7e266938a81ae00bb5b2daea7
-    search: []
+    search: [user, plus, add]
   - css: "user-secret"
     code: 0xF21B
     uid: 707f84016fffc02c25ceacfb131e48cd
-    search: []
+    search: [secret, private, user]
   - css: "user-shield"
     code: 0xF505
     uid: 465af463629231d31ce156a4ff56b33d
@@ -3036,11 +3036,11 @@ glyphs:
   - css: "user-times"
     code: 0xF235
     uid: 264f9eaf32e289636fc836b26d2ecf89
-    search: []
+    search: [user, remove, delete]
   - css: user
     code: 0xF007
     uid: da346ddd4a063e1059216662e6d0a761
-    search: []
+    search: [profile, contact, user]
   - css: "users-cog"
     code: 0xF509
     uid: f6e532491c137129cae9ffcf61c051e9
@@ -3048,7 +3048,7 @@ glyphs:
   - css: users
     code: 0xF0C0
     uid: 5413a24aa986acc8523f2e43c9cda6a2
-    search: []
+    search: [users, contacts, friends]
   - css: "utensil-spoon"
     code: 0xF2E5
     uid: d8c4a0ed3f6a5642e8915d947db89329
@@ -3064,15 +3064,15 @@ glyphs:
   - css: "venus-double"
     code: 0xF226
     uid: 0d9a191e908a0f566330981cc9c1b1ef
-    search: []
+    search: [venus, astrology]
   - css: "venus-mars"
     code: 0xF228
     uid: 57e8c0824a3a0da9f4641bf484cef523
-    search: []
+    search: [venus, mars, astrology]
   - css: venus
     code: 0xF221
     uid: d9b437bc8249c43cb3535595a8c86f08
-    search: []
+    search: [venus, astrology]
   - css: vial
     code: 0xF492
     uid: 4444adafcef1115b839e7404159d8622
@@ -3088,7 +3088,7 @@ glyphs:
   - css: video
     code: 0xF03D
     uid: af261df58efc62fdca86201490af0147
-    search: []
+    search: [movie, video, film]
   - css: "volleyball-ball"
     code: 0xF45F
     uid: 1b46c829b5e9e2756006dbe478b0813a
@@ -3096,15 +3096,15 @@ glyphs:
   - css: "volume-down"
     code: 0xF027
     uid: 18f1c408d8a70e891fdf6e08fa7b53cf
-    search: []
+    search: [volume, sound]
   - css: "volume-off"
     code: 0xF026
     uid: bbf080f0e24095db95ff9969954e78b1
-    search: []
+    search: [volume, sound, mute]
   - css: "volume-up"
     code: 0xF028
     uid: c00fb4dd2d8ae9ded06a3a1adee0c392
-    search: []
+    search: [volume, sound]
   - css: walking
     code: 0xF554
     uid: fa6db772eb3a162a7464859adbc061f0
@@ -3128,15 +3128,15 @@ glyphs:
   - css: wheelchair
     code: 0xF193
     uid: 00ab9b4fe71cfe0343a224946de43533
-    search: []
+    search: [wheelchair, accessibility]
   - css: wifi
     code: 0xF1EB
     uid: e7c61ae2a45a44c2b5c3f35561dd2179
-    search: []
+    search: [wifi, signal]
   - css: "window-close"
     code: 0xF410
     uid: d1173a0c528ec47c5ccc1795177b1190
-    search: []
+    search: [times-rectangle]
   - css: "window-maximize"
     code: 0xF2D0
     uid: 855572b745e3599f582c75deb431d9aa
@@ -3164,7 +3164,7 @@ glyphs:
   - css: wrench
     code: 0xF0AD
     uid: e05e692729fd90efcdefd1614625ce5b
-    search: []
+    search: [wrench, tools, settings, params]
   - css: "x-ray"
     code: 0xF497
     uid: 5ef10f67936efc07f71617d24b9087d0
