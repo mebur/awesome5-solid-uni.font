@@ -1,1 +1,4 @@
-<svg height="1000" width="750" xmlns="http://www.w3.org/2000/svg"><path d="M0 1000V93.8C0 42 42 0 93.8 0h562.5C708 0 750 42 750 93.8V1000L375 781.3 0 1000z"/></svg>
+
+  <svg height="1000" width="750.0" xmlns="http://www.w3.org/2000/svg">
+    <path d="m0 1000v-906.2c0-51.8 42-93.8 93.8-93.8h562.5c51.7 0 93.7 42 93.7 93.8v906.2l-375-218.7z" />
+  </svg>

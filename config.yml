@@ -93,7 +93,7 @@ meta:
 
 
 font:
-  version: "5.2.0"
+  version: "5.14.0"
 
   # use !!!small!!! letters a-z, or Opera will fail under OS X
   # fontname will be also used as file name.
@@ -3172,4 +3172,936 @@ glyphs:
   - css: "yen-sign"
     code: 0xF157
     uid: 8df7667c0b82fb23806db68d55c7253d
+    search: []
+  - css: faucet
+    code: 0xE005
+    uid: 159896a5038df1006171dc97ec3ef3db
+    search: []
+  - css: trailer
+    code: 0xE041
+    uid: adc6d34f0122e06097d9e8d4fb73d034
+    search: []
+  - css: bacteria
+    code: 0xE059
+    uid: f30f6ae7975685d522db838f54731d77
+    search: []
+  - css: bacterium
+    code: 0xE05A
+    uid: cf9d6b2540c2703812be56127a81b006
+    search: []
+  - css: "box-tissue"
+    code: 0xE05B
+    uid: 730e0c09dc30e105344a2a717821f817
+    search: []
+  - css: "hand-holding-medical"
+    code: 0xE05C
+    uid: c18fc0baa459d8a72eba3a2039e5c231
+    search: []
+  - css: "hand-sparkles"
+    code: 0xE05D
+    uid: 7e1511793ce7a38eca71de2510570649
+    search: []
+  - css: "hands-wash"
+    code: 0xE05E
+    uid: ce2d6702d0d7a5d66425bef842a2d484
+    search: []
+  - css: "handshake-alt-slash"
+    code: 0xE05F
+    uid: be258d23611ee834866dfb8c37d27304
+    search: []
+  - css: "head-side-cough"
+    code: 0xE061
+    uid: 4087e131b046fa4a9ebd768c5f16146d
+    search: []
+  - css: "handshake-slash"
+    code: 0xE060
+    uid: a5223107c7b44a665801fa52648ef5fd
+    search: []
+  - css: "head-side-cough-slash"
+    code: 0xE062
+    uid: 70cf0c08df3a4068b09651d4c5f84e67
+    search: []
+  - css: "head-side-mask"
+    code: 0xE063
+    uid: 9261cc8063fdffe75cedd5dd0421b258
+    search: []
+  - css: "head-side-virus"
+    code: 0xE064
+    uid: bac5aae1a5b2732538be83ba145aaa01
+    search: []
+  - css: "house-user"
+    code: 0xE065
+    uid: 66c698b305bcad5c980382953227cd93
+    search: []
+  - css: "laptop-house"
+    code: 0xE066
+    uid: fb784b23438fde566a15ed045f1b9c9b
+    search: []
+  - css: "lungs-virus"
+    code: 0xE067
+    uid: 60e8d8aab0851616f046daae0daaba84
+    search: []
+  - css: "people-arrows"
+    code: 0xE068
+    uid: bd7d9aa11fccf5ec8faef14a4341faa5
+    search: []
+  - css: "plane-slash"
+    code: 0xE069
+    uid: 09b17921540f85401911d73ab637a940
+    search: []
+  - css: "pump-medical"
+    code: 0xE06A
+    uid: ce6943ce9ca898c9e9d02b0861c3f7d6
+    search: []
+  - css: "pump-soap"
+    code: 0xE06B
+    uid: ed0de35d21e889096e61b3cc2de512b6
+    search: []
+  - css: "shield-virus"
+    code: 0xE06C
+    uid: 66519cc65a128d292454c49b6abe0b72
+    search: []
+  - css: sink
+    code: 0xE06D
+    uid: c6e93bcba08d61090f28cb4f7753292f
+    search: []
+  - css: "stopwatch-20"
+    code: 0xE06F
+    uid: b918d149f9a521c2088e378d79e33179
+    search: []
+  - css: soap
+    code: 0xE06E
+    uid: 1df3a6425d794f9d6d0340f685dae47a
+    search: []
+  - css: "store-alt-slash"
+    code: 0xE070
+    uid: 4dc95164d61c363e95f79e175af63a0c
+    search: []
+  - css: "store-slash"
+    code: 0xE071
+    uid: 934af96005e494117335e5a4fe9019a1
+    search: []
+  - css: "toilet-paper-slash"
+    code: 0xE072
+    uid: 6d5ba0992136f29c301e191821f33a09
+    search: []
+  - css: "users-slash"
+    code: 0xE073
+    uid: e263d37fd3a1adbc13552e70d4e2f8e3
+    search: []
+  - css: virus
+    code: 0xE074
+    uid: ec442c70dfddd7968c3ab7df6176fe40
+    search: []
+  - css: "virus-slash"
+    code: 0xE075
+    uid: 588794abdeaa05c32fd1a3ccc66f6daf
+    search: []
+  - css: viruses
+    code: 0xE076
+    uid: b38810b329ccfb280cc02f0365c50145
+    search: []
+  - css: "compress-alt"
+    code: 0xF422
+    uid: 635c06dfb4c5e6b740ef0526874212ce
+    search: []
+  - css: "expand-alt"
+    code: 0xF424
+    uid: cbb221fde6ae948dd78df5802939688e
+    search: []
+  - css: "hand-holding-water"
+    code: 0xF4C1
+    uid: f0b14a6b786d4b241d1ffd810e2a1271
+    search: []
+  - css: "balance-scale-left"
+    code: 0xF515
+    uid: f547113ffe18901a5f51dc9d22a8429e
+    search: []
+  - css: "balance-scale-right"
+    code: 0xF516
+    uid: e8c5cce8396871e0b7576d7778675d32
+    search: []
+  - css: lungs
+    code: 0xF604
+    uid: 5ea640fb4dfa6baac47ed48372785ec4
+    search: []
+  - css: ad
+    code: 0xF641
+    uid: 488b35e2b31336f202f06c76d93beb76
+    search: []
+  - css: ankh
+    code: 0xF644
+    uid: 43623382dbb7da1181d42081893c7d6a
+    search: []
+  - css: bible
+    code: 0xF647
+    uid: d6fc11ee774d314adf336e9654a7e2e4
+    search: []
+  - css: "business-time"
+    code: 0xF64A
+    uid: d891bda7cba65b0fab16cb1481de37f4
+    search: []
+  - css: city
+    code: 0xF64F
+    uid: bf904ad41892d146f52235396d9a3d58
+    search: []
+  - css: "comment-dollar"
+    code: 0xF651
+    uid: d192e024aa07f8874436989b8f25ec0d
+    search: []
+  - css: "comments-dollar"
+    code: 0xF653
+    uid: 4ad24371b4bae9c24dcf1d464a5a4236
+    search: []
+  - css: cross
+    code: 0xF654
+    uid: 093005254bac1595d548b6acc5c8c968
+    search: []
+  - css: dharmachakra
+    code: 0xF655
+    uid: 95ade5c92fff53d6e6e708dc8f77989e
+    search: []
+  - css: "envelope-open-text"
+    code: 0xF658
+    uid: f44d336ac648146eca0d5e85874a2530
+    search: []
+  - css: "folder-minus"
+    code: 0xF65D
+    uid: f3bed88dcbf38a8d5719dcd1fc3e210b
+    search: []
+  - css: "folder-plus"
+    code: 0xF65E
+    uid: a9314d6f5bdbe17d1d676ac1944a9e77
+    search: []
+  - css: "funnel-dollar"
+    code: 0xF662
+    uid: bfe504c3c7fb5422189e38dd670310bb
+    search: []
+  - css: gopuram
+    code: 0xF664
+    uid: 39ef2c3bd3c49aec3bf70c02ddb111ba
+    search: []
+  - css: hamsa
+    code: 0xF665
+    uid: 80273c6e599458dcc5a7293352321aeb
+    search: []
+  - css: bahai
+    code: 0xF666
+    uid: 68155e137b8f45bbc5e067902eeeecab
+    search: []
+  - css: jedi
+    code: 0xF669
+    uid: 78ce83a40b84df04c202f7700a9bfd99
+    search: []
+  - css: "journal-whills"
+    code: 0xF66A
+    uid: 387b08f879bb935ddb69619c2e2b2415
+    search: []
+  - css: kaaba
+    code: 0xF66B
+    uid: 13a42dacb9307a60c3254ea755257b4e
+    search: []
+  - css: khanda
+    code: 0xF66D
+    uid: 12f3a1bd5d6ddf94912b3f93bb891e91
+    search: []
+  - css: landmark
+    code: 0xF66F
+    uid: 9cbbaf03b04107face47a3ba887eca10
+    search: []
+  - css: "mail-bulk"
+    code: 0xF674
+    uid: c4cd1adda73a0a1c417f9f37b1802c53
+    search: []
+  - css: menorah
+    code: 0xF676
+    uid: c001236b9908c5bc81bcd0d6bee35a69
+    search: []
+  - css: mosque
+    code: 0xF678
+    uid: 885a776a9c033c4faa037c2f7ffcd49f
+    search: []
+  - css: om
+    code: 0xF679
+    uid: fe252a8e6ec7c727370270d7d64e30ef
+    search: []
+  - css: pastafarianism
+    code: 0xF67B
+    uid: 0300a044988cb635599b7717cb242275
+    search: []
+  - css: peace
+    code: 0xF67C
+    uid: e85f7a91f8a7017bb5636e62c77ffe0d
+    search: []
+  - css: "place-of-worship"
+    code: 0xF67F
+    uid: 79e7bcbca244273c985e2cb3dca18be5
+    search: []
+  - css: poll
+    code: 0xF681
+    uid: 32a37dcd39ffffd89168286b62071365
+    search: []
+  - css: "poll-h"
+    code: 0xF682
+    uid: a0c8925891fc817393a86221ed0ff371
+    search: []
+  - css: pray
+    code: 0xF683
+    uid: 46dd5c0f16505db623650a34be819dd1
+    search: []
+  - css: "praying-hands"
+    code: 0xF684
+    uid: 21b89bdff1bdaa3e27c12da1811fed5d
+    search: []
+  - css: quran
+    code: 0xF687
+    uid: d48cf7f1492f560e1d9825569d2b9efb
+    search: []
+  - css: "search-dollar"
+    code: 0xF688
+    uid: ea49d54c21f6f6acdee3ff8a316a598b
+    search: []
+  - css: "search-location"
+    code: 0xF689
+    uid: f675d7f9c1eb2a45735a8a8a4419075f
+    search: []
+  - css: socks
+    code: 0xF696
+    uid: fb369044a6d0763ebca39da5209fbe95
+    search: []
+  - css: "square-root-alt"
+    code: 0xF698
+    uid: f503f68865562eeb57e58a7fe38a5bfd
+    search: []
+  - css: "star-and-crescent"
+    code: 0xF699
+    uid: 170a0bbfa9b578b0d80ae7b4e2af4540
+    search: []
+  - css: "star-of-david"
+    code: 0xF69A
+    uid: 3162df36e5458a0af0d54ff690387a5d
+    search: []
+  - css: synagogue
+    code: 0xF69B
+    uid: 17ade779941e9e2ce6de34a069ea8c34
+    search: []
+  - css: torah
+    code: 0xF6A0
+    uid: 82d4b744ebfe91aa43c1f9675812087e
+    search: []
+  - css: "torii-gate"
+    code: 0xF6A1
+    uid: b130f16ef072bf45de53014f4dbab034
+    search: []
+  - css: vihara
+    code: 0xF6A7
+    uid: ae573d6380329defacfeda2aae8c7e02
+    search: []
+  - css: "volume-mute"
+    code: 0xF6A9
+    uid: 7a8d522747021fa71d9159fc505b7e55
+    search: []
+  - css: "yin-yang"
+    code: 0xF6AD
+    uid: 7d3ae961bb7447c31ce95e75b09298d1
+    search: []
+  - css: "blender-phone"
+    code: 0xF6B6
+    uid: c387c8c9a4be67b26284aebe96a6ff3a
+    search: []
+  - css: "book-dead"
+    code: 0xF6B7
+    uid: 489ead132beb7e1a543b21a84cb3ff29
+    search: []
+  - css: campground
+    code: 0xF6BB
+    uid: 99285a79607f0699aee47ff15d843707
+    search: []
+  - css: cat
+    code: 0xF6BE
+    uid: 88a26d8c28aefcdfa6b17048a17d3cff
+    search: []
+  - css: chair
+    code: 0xF6C0
+    uid: 053f873504fc10a58f0824df1b60d7f0
+    search: []
+  - css: "cloud-moon"
+    code: 0xF6C3
+    uid: 65337e811dfcbd38951895134c9986f5
+    search: []
+  - css: "cloud-sun"
+    code: 0xF6C4
+    uid: 37b55c78f8f5d80a3b683538b11eeb0d
+    search: []
+  - css: "dice-d20"
+    code: 0xF6CF
+    uid: 0957717ab57201bfdd28a6d0162f166a
+    search: []
+  - css: "dice-d6"
+    code: 0xF6D1
+    uid: c60b431fbd58f440f60c8a37f3dbfa9d
+    search: []
+  - css: dog
+    code: 0xF6D3
+    uid: 042dec963769adaea5cfe2b71f892a73
+    search: []
+  - css: dragon
+    code: 0xF6D5
+    uid: e75aa92910e2d6b0671378bf39c8abe0
+    search: []
+  - css: "drumstick-bite"
+    code: 0xF6D7
+    uid: 5cf001c12d18e81f873814ef1cc7309b
+    search: []
+  - css: dungeon
+    code: 0xF6D9
+    uid: c417812d75e00e1d95feefd1b830339c
+    search: []
+  - css: "file-csv"
+    code: 0xF6DD
+    uid: 96ec208d25bf06f91cd33fabf9ff877b
+    search: []
+  - css: "fist-raised"
+    code: 0xF6DE
+    uid: cedc8dfceaf33550facb388aa1c8c26a
+    search: []
+  - css: ghost
+    code: 0xF6E2
+    uid: 09b6d1be509e32d658ee8e417f92caed
+    search: []
+  - css: hammer
+    code: 0xF6E3
+    uid: 58cab43daddf7129c58c25ecb7c182cd
+    search: []
+  - css: hanukiah
+    code: 0xF6E6
+    uid: 030f809f752abfc43b8a7e959f9a4c98
+    search: []
+  - css: "hat-wizard"
+    code: 0xF6E8
+    uid: 4967b21af2b76f12d0344775971592ab
+    search: []
+  - css: hiking
+    code: 0xF6EC
+    uid: 22dc88aa9f094dbec137c7ffe31ec04c
+    search: []
+  - css: hippo
+    code: 0xF6ED
+    uid: 99cf0251ba30453e01f251e8ad938769
+    search: []
+  - css: horse
+    code: 0xF6F0
+    uid: 45a2a29661720ac6838190499d3f9783
+    search: []
+  - css: "house-damage"
+    code: 0xF6F1
+    uid: df186840b428b6f66cf73e9b3e4cb4a3
+    search: []
+  - css: hryvnia
+    code: 0xF6F2
+    uid: 5383a72934a90d9e085022b70c928b0b
+    search: []
+  - css: mask
+    code: 0xF6FA
+    uid: 44ea9ebcea560f18947372dcdcb492f8
+    search: []
+  - css: mountain
+    code: 0xF6FC
+    uid: fa0ec598ab76b14e922a8bec850838f6
+    search: []
+  - css: "network-wired"
+    code: 0xF6FF
+    uid: ef87486b4144a5da3d0b04e236bf5bab
+    search: []
+  - css: otter
+    code: 0xF700
+    uid: ea9a7a1e2e986b40ac5eac9634ac59a4
+    search: []
+  - css: ring
+    code: 0xF70B
+    uid: 27b878313e852bc3e5a89590e390c7ed
+    search: []
+  - css: running
+    code: 0xF70C
+    uid: 785094674fb4088b12c1214a372ff134
+    search: []
+  - css: scroll
+    code: 0xF70E
+    uid: 7ca8b10d27a8e19ab85f6de50d22d735
+    search: []
+  - css: "skull-crossbones"
+    code: 0xF714
+    uid: cf3f779f2aba4719a0f53f74dcd04629
+    search: []
+  - css: slash
+    code: 0xF715
+    uid: 5adcb872765e5f94a3a8d0be63323de0
+    search: []
+  - css: spider
+    code: 0xF717
+    uid: 074929c17e3fa716e748ba3d11680e2a
+    search: []
+  - css: "toilet-paper"
+    code: 0xF71E
+    uid: 2781391dcb0ffdc4432151fb6d54dcbb
+    search: []
+  - css: tractor
+    code: 0xF722
+    uid: 0e9ecc4466fc2986e4767e943fbcfffc
+    search: []
+  - css: "user-injured"
+    code: 0xF728
+    uid: b1125d3300bef955a1cdd0d52c25dd28
+    search: []
+  - css: "vr-cardboard"
+    code: 0xF729
+    uid: 997b376c213e7f0328d480e251154275
+    search: []
+  - css: wind
+    code: 0xF72E
+    uid: 63966f2887b6acaaecf16a7c67620b85
+    search: []
+  - css: "wine-bottle"
+    code: 0xF72F
+    uid: 1e8ec373147a5ac232476896e56dfea2
+    search: []
+  - css: "cloud-meatball"
+    code: 0xF73B
+    uid: 061a8c11ed6da096f2380c21d68fd319
+    search: []
+  - css: "cloud-moon-rain"
+    code: 0xF73C
+    uid: 5f952b92107e54d392d6cf6d0d1e1dbc
+    search: []
+  - css: "cloud-rain"
+    code: 0xF73D
+    uid: 49304d299a62bf9f27879fd01c7a3d57
+    search: []
+  - css: "cloud-showers-heavy"
+    code: 0xF740
+    uid: 6c9cd7c4135c9dec424b10738ede21e2
+    search: []
+  - css: "cloud-sun-rain"
+    code: 0xF743
+    uid: 0b463b3148aa7e8ceaea846bb2520f3a
+    search: []
+  - css: democrat
+    code: 0xF747
+    uid: be7a45e14439f601fa2c3812fda54df6
+    search: []
+  - css: "flag-usa"
+    code: 0xF74D
+    uid: 453136cd41d5642ffedf30234ce7aca5
+    search: []
+  - css: meteor
+    code: 0xF753
+    uid: 2a6d820bd7b72ec1bec88b8e07d4d7c4
+    search: []
+  - css: "person-booth"
+    code: 0xF756
+    uid: 01d70b1b66eca1aeb13551d638c648a2
+    search: []
+  - css: "poo-storm"
+    code: 0xF75A
+    uid: 1bc0badd58a79fcfdd0d2c710797adcb
+    search: []
+  - css: rainbow
+    code: 0xF75B
+    uid: f40fdd6069a0a218be4f4bb50907497f
+    search: []
+  - css: republican
+    code: 0xF75E
+    uid: a0200a807104893d1d2daa0029332b5c
+    search: []
+  - css: smog
+    code: 0xF75F
+    uid: 37a9671bdcccd2bcd05654eb55e342ba
+    search: []
+  - css: "temperature-high"
+    code: 0xF769
+    uid: 9c8d833648ea5788ccd44506dd3cdf06
+    search: []
+  - css: "temperature-low"
+    code: 0xF76B
+    uid: caa25a286fd86fb6bee58bc905b01276
+    search: []
+  - css: "vote-yea"
+    code: 0xF772
+    uid: 10a0355dc004d75ee47dbf5f833c7761
+    search: []
+  - css: water
+    code: 0xF773
+    uid: fced73aa37685905c8208f316bb5eefe
+    search: []
+  - css: baby
+    code: 0xF77C
+    uid: 473e97022a04fc1411938ad228ff3c28
+    search: []
+  - css: "baby-carriage"
+    code: 0xF77D
+    uid: 0eef4dda5179b87a8bf100f3f7efb42b
+    search: []
+  - css: biohazard
+    code: 0xF780
+    uid: 2866a15a181b8676553e70e14c3e290b
+    search: []
+  - css: blog
+    code: 0xF781
+    uid: 96606a87f79201f09e127e1668cb0877
+    search: []
+  - css: "calendar-day"
+    code: 0xF783
+    uid: 026f0af6cd92b0e74a3d6c1e84588526
+    search: []
+  - css: "calendar-week"
+    code: 0xF784
+    uid: 876ec3c5023f636a4c0a01329de80ebe
+    search: []
+  - css: "candy-cane"
+    code: 0xF786
+    uid: dd0b3affda473a386bc0b740a43e8221
+    search: []
+  - css: carrot
+    code: 0xF787
+    uid: d86c7ac61f86dc3bcfb638c109da905e
+    search: []
+  - css: "cash-register"
+    code: 0xF788
+    uid: 589a518e644c1a4cd8f540002343eb45
+    search: []
+  - css: "compress-arrows-alt"
+    code: 0xF78C
+    uid: 5ddbcaa23cfff039d9940307480e0a23
+    search: []
+  - css: dumpster
+    code: 0xF793
+    uid: af4bc7d62f6b9cfb1b98a595cebf897d
+    search: []
+  - css: "dumpster-fire"
+    code: 0xF794
+    uid: 78c50c74b674c91e2b1f8fc495106814
+    search: []
+  - css: ethernet
+    code: 0xF796
+    uid: 221b61e55b27ea94a3a16532eda59bfb
+    search: []
+  - css: gifts
+    code: 0xF79C
+    uid: dc7161ca5d39d258e784d0cf0e76d5fc
+    search: []
+  - css: "glass-cheers"
+    code: 0xF79F
+    uid: baafdaae55e1f06fc0e5a41f934b1b01
+    search: []
+  - css: "glass-whiskey"
+    code: 0xF7A0
+    uid: dbf5ecf083bd68e1faedc6dc27ee66a5
+    search: []
+  - css: "globe-europe"
+    code: 0xF7A2
+    uid: b764c0ae645ed92454e3534ebd28e3ba
+    search: []
+  - css: "grip-lines"
+    code: 0xF7A4
+    uid: 3f965cfad56577a0e1beb49c922fa144
+    search: []
+  - css: "grip-lines-vertical"
+    code: 0xF7A5
+    uid: 0b9da2eb9c648b9d6cf87d52adb0eff9
+    search: []
+  - css: guitar
+    code: 0xF7A6
+    uid: 148505369a4bdffa7fe2083024c14df1
+    search: []
+  - css: "heart-broken"
+    code: 0xF7A9
+    uid: 55b12cf04ab1ef348a8fac9a78c00fb9
+    search: []
+  - css: "holly-berry"
+    code: 0xF7AA
+    uid: 5adc2669330cd77962692441ed3755a9
+    search: []
+  - css: "horse-head"
+    code: 0xF7AB
+    uid: 1e079bea3f174d0341d63bf913973d60
+    search: []
+  - css: icicles
+    code: 0xF7AD
+    uid: a26c3f805baadc5a8384b841c25f3678
+    search: []
+  - css: igloo
+    code: 0xF7AE
+    uid: 7bdd63f3203d394ae58866b5fe226857
+    search: []
+  - css: mitten
+    code: 0xF7B5
+    uid: 5364c8ebb368a7a40937f882e9275666
+    search: []
+  - css: "mug-hot"
+    code: 0xF7B6
+    uid: 287087373a3692d0801ef4452149a24f
+    search: []
+  - css: radiation
+    code: 0xF7B9
+    uid: 04b607481b9e4835d5b6519968eb5f43
+    search: []
+  - css: "radiation-alt"
+    code: 0xF7BA
+    uid: 301420e057c297f0d490b26aa85b8a8c
+    search: []
+  - css: restroom
+    code: 0xF7BD
+    uid: d9b6e7465a80284194ddea787c3516b7
+    search: []
+  - css: satellite
+    code: 0xF7BF
+    uid: 56cd690af5ca70364bd1caec241ac74c
+    search: []
+  - css: "satellite-dish"
+    code: 0xF7C0
+    uid: 4d049b31bca315a0afd863c7d06062dd
+    search: []
+  - css: "sd-card"
+    code: 0xF7C2
+    uid: 762ef798bc701b5e38a242b1c35a8ac9
+    search: []
+  - css: "sim-card"
+    code: 0xF7C4
+    uid: 9b6f97054f1a3c602a74adda956440f8
+    search: []
+  - css: skating
+    code: 0xF7C5
+    uid: fca85bcff0e01ca37c36447a45d008ca
+    search: []
+  - css: skiing
+    code: 0xF7C9
+    uid: a8df70fb66799dc801a4a0211f06cda0
+    search: []
+  - css: "skiing-nordic"
+    code: 0xF7CA
+    uid: db8973ac381460233393ada348957690
+    search: []
+  - css: sleigh
+    code: 0xF7CC
+    uid: c5044af05af9452198b039d3d3ee01f3
+    search: []
+  - css: sms
+    code: 0xF7CD
+    uid: afcb5e9085d227021542a5681396bbd5
+    search: []
+  - css: snowboarding
+    code: 0xF7CE
+    uid: ee2226a610f4e116f57b058f8025504b
+    search: []
+  - css: snowman
+    code: 0xF7D0
+    uid: 5e74136510bb23c5019fcc9e23ef9c39
+    search: []
+  - css: snowplow
+    code: 0xF7D2
+    uid: e662d4be9807318269df19636aaeb2ab
+    search: []
+  - css: tenge
+    code: 0xF7D7
+    uid: 0532c5b06e5c9d58970ddf755e58fa12
+    search: []
+  - css: toilet
+    code: 0xF7D8
+    uid: cd7c79d2e4b38d466101412ab02ac5dc
+    search: []
+  - css: tools
+    code: 0xF7D9
+    uid: 7b3960dd1ef11a5894da7f5aa53d98ad
+    search: []
+  - css: tram
+    code: 0xF7DA
+    uid: 916c9b23ca9e96a07b9f6fae2e847583
+    search: []
+  - css: "fire-alt"
+    code: 0xF7E4
+    uid: cb8e3d5f26b72eb219c33622334d2835
+    search: []
+  - css: bacon
+    code: 0xF7E5
+    uid: 1e972115116a57de3bfaa9ceeef58d63
+    search: []
+  - css: "book-medical"
+    code: 0xF7E6
+    uid: e13ae139bd22988dfa5ae0cd66985099
+    search: []
+  - css: "bread-slice"
+    code: 0xF7EC
+    uid: 030a85c40f472423fe407ffea47a8691
+    search: []
+  - css: cheese
+    code: 0xF7EF
+    uid: ca974f716b04e68c5ed809724672c81f
+    search: []
+  - css: "clinic-medical"
+    code: 0xF7F2
+    uid: c274743e3791f71a9a5bf0fd7b2e7539
+    search: []
+  - css: "comment-medical"
+    code: 0xF7F5
+    uid: 7bd4cf8589bd54a03ad4ec6d06b09d53
+    search: []
+  - css: crutch
+    code: 0xF7F7
+    uid: 09cbf6e1a55010981ac0e4a7eb09c797
+    search: []
+  - css: disease
+    code: 0xF7FA
+    uid: 19444f06e580052dcbb31536773c3159
+    search: []
+  - css: egg
+    code: 0xF7FB
+    uid: 02f73f25ca8b7a80eb5972a3e0bd1c04
+    search: []
+  - css: hamburger
+    code: 0xF805
+    uid: a865791ad5b6a8d265cf21c270869bd4
+    search: []
+  - css: "hand-middle-finger"
+    code: 0xF806
+    uid: f34dd359272b4786701ba9f54227dfdf
+    search: []
+  - css: "hard-hat"
+    code: 0xF807
+    uid: f5b2d932d3f00ea78919c9e5489ee0bf
+    search: []
+  - css: "hospital-user"
+    code: 0xF80D
+    uid: a0e4b41fc95bbbb41c7f55c0ca253e89
+    search: []
+  - css: hotdog
+    code: 0xF80F
+    uid: 75d51616e0b1f839a3a2b517de8b349d
+    search: []
+  - css: "ice-cream"
+    code: 0xF810
+    uid: 0c7a967f8ea1d051d4bc7aff3c035efd
+    search: []
+  - css: "laptop-medical"
+    code: 0xF812
+    uid: 36514d5699c2999ed9db09b994270457
+    search: []
+  - css: pager
+    code: 0xF815
+    uid: da4a3bc3d993d6259af0cd9527d28c82
+    search: []
+  - css: "pepper-hot"
+    code: 0xF816
+    uid: 5550cb030b5f1cc3c77bc8066aa9221f
+    search: []
+  - css: "pizza-slice"
+    code: 0xF818
+    uid: 46a2b9e8ca429b9cd0494be5af12d643
+    search: []
+  - css: "trash-restore"
+    code: 0xF829
+    uid: 64d86d4da084b2469f9db8491ad37e46
+    search: []
+  - css: "trash-restore-alt"
+    code: 0xF82A
+    uid: 66fcd255ca6a65ba02216faf62b76314
+    search: []
+  - css: "user-nurse"
+    code: 0xF82F
+    uid: 8abe508739319040aa3d50f214a3a387
+    search: []
+  - css: "wave-square"
+    code: 0xF83E
+    uid: 009cc6168888020d4e03e08fec7c879f
+    search: []
+  - css: biking
+    code: 0xF84A
+    uid: 17061ab3c84fef6d726ab7c7215587aa
+    search: []
+  - css: "border-all"
+    code: 0xF84C
+    uid: f90590f11249fc73b372d096eb86d3dd
+    search: []
+  - css: "border-none"
+    code: 0xF850
+    uid: 00227e6790a4aa6fdd5a17931de7ae26
+    search: []
+  - css: "border-style"
+    code: 0xF853
+    uid: fbdf28ff94abd2a31755629fdbf88010
+    search: []
+  - css: fan
+    code: 0xF863
+    uid: 355023104b089411c22666dda1affb48
+    search: []
+  - css: icons
+    code: 0xF86D
+    uid: 184018241a32a9740544ae6cb0bfa012
+    search: []
+  - css: "phone-alt"
+    code: 0xF879
+    uid: 38bbd9fd357172830ffc45d481ac219f
+    search: []
+  - css: "phone-square-alt"
+    code: 0xF87B
+    uid: 2246b2b31e3967d0f7dcc2d6a8512efe
+    search: []
+  - css: "photo-video"
+    code: 0xF87C
+    uid: a31310511fff7ca3f6a0deeca1b722db
+    search: []
+  - css: "remove-format"
+    code: 0xF87D
+    uid: 26f831ab5166875fdeb0099bad4d23dc
+    search: []
+  - css: "sort-alpha-down-alt"
+    code: 0xF881
+    uid: c42cc1a7decff83c8b395091d0f6f785
+    search: []
+  - css: "sort-alpha-up-alt"
+    code: 0xF882
+    uid: 83726ddd04570843183f31f5e4ec55ce
+    search: []
+  - css: "sort-amount-down-alt"
+    code: 0xF884
+    uid: c2c33fc174e37d0ae4ca552ff96c6119
+    search: []
+  - css: "sort-amount-up-alt"
+    code: 0xF885
+    uid: edfc26713318b2f025843e6ffda8e5f3
+    search: []
+  - css: "sort-numeric-down-alt"
+    code: 0xF886
+    uid: 088676364c87be7392c33db4a674481a
+    search: []
+  - css: "sort-numeric-up-alt"
+    code: 0xF887
+    uid: 8c1d8a6068e506b965afc4df44e95234
+    search: []
+  - css: "spell-check"
+    code: 0xF891
+    uid: 1a9ee2c8363f06fbbd054c0afccb027f
+    search: []
+  - css: voicemail
+    code: 0xF897
+    uid: c4dcb44e23327ddfd59fe7fc2765d1aa
+    search: []
+  - css: "hat-cowboy"
+    code: 0xF8C0
+    uid: 860629702d190d9c088ddbed5d9c375c
+    search: []
+  - css: "hat-cowboy-side"
+    code: 0xF8C1
+    uid: 082b8bb4146f7e5d8faef8ea4fff493d
+    search: []
+  - css: mouse
+    code: 0xF8CC
+    uid: 96363420cd373fc80b44534b07e517d6
+    search: []
+  - css: "record-vinyl"
+    code: 0xF8D9
+    uid: 1b4360ae39ed0745e0160bd04abd0f9f
+    search: []
+  - css: caravan
+    code: 0xF8FF
+    uid: cf0f8c816a5d5b039f64e12dfd85c7a5
     search: []
